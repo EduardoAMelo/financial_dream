@@ -1,0 +1,7 @@
+{
+  "name": "finantial_dream",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
